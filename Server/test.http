@@ -1,0 +1,8 @@
+GET  http://localhost:3000/api/v1/restaurants
+ Content-Type: application/json
+
+ {
+    "rest_id":10000000020,
+    "name":"Shoyaib",
+    "rating":5
+ }
